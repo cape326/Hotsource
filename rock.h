@@ -25,5 +25,6 @@ void round1()
 		/**/
 		srand(time(NULL));
 	num6 = rand() % ((480 - 161) + 1) + 161;
+		printf("당신은 %d등 입니다.\n", num6);
 	}
 }
