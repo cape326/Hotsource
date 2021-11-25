@@ -20,14 +20,14 @@ void round1()
 	scanf("%d", &answer1);
 	if (num1 == 1 && answer1 == 2 || num1 == 2 && answer1 == 3 || num1 == 3 && answer1 == 1)
 	{
-		printf("\n사용자 : %s   vs", num1 == 1 ? "가위" : num1 == 2 ? "바위" : "보");
-		printf("   컴퓨터 : %s\n", answer1 == 1 ? "가위" : answer1 == 2 ? "바위" : "보");
+		printf("\n사용자 : %s   vs", answer1 == 1 ? "가위" : answer1 == 2 ? "바위" : "보");
+		printf("   컴퓨터 : %s\n", num1 == 1 ? "가위" : num1 == 2 ? "바위" : "보");
 		printf("1라운드 통과. 다음 라운드로 넘어갑니다.\n");
 	}
 	else
 	{
-		printf("\n사용자 : %s   vs", num1 == 1 ? "가위" : num1 == 2 ? "바위" : "보");
-		printf("   컴퓨터 : %s\n", answer1 == 1 ? "가위" : answer1 == 2 ? "바위" : "보");
+		printf("\n사용자 : %s   vs", answer1 == 1 ? "가위" : answer1 == 2 ? "바위" : "보");
+		printf("   컴퓨터 : %s\n", num1 == 1 ? "가위" : num1 == 2 ? "바위" : "보");
 		printf("1라운드 탈락. ");
 
 		/**/
