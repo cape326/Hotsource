@@ -2,6 +2,59 @@
 #include <stdlib.h>
 #include <time.h>
 
+char Image[][6][20] =
+{
+
+{
+
+"□■□■□□□□",
+
+"□■□■□□□□",
+
+"□■□■□□□□",
+
+"□■■■■■■□",
+
+"□■■■■■■□",
+
+"□■■■■■■□"
+
+},
+
+{
+
+"□□□□□□□□",
+
+"□■■■■■□□",
+
+"□■■■■■□□",
+
+"□■■■■■■□",
+
+"□■■■■■■□",
+
+"□■■■■■■□"
+
+},
+
+{
+
+"□□□■□■□□",
+
+"□■□■□■□■",
+
+"□■□■□■□■",
+
+"□■□■□■□■",
+
+"■■■■■■■■",
+
+"□■■■■■■■"
+
+}
+
+};
+
 void round1()
 {
 	int num1, answer1, num6;
@@ -20,15 +73,135 @@ void round1()
 	scanf("%d", &answer1);
 	if (num1 == 1 && answer1 == 2 || num1 == 2 && answer1 == 3 || num1 == 3 && answer1 == 1)
 	{
-		printf("\n사용자 : %s   vs", answer1 == 1 ? "가위" : answer1 == 2 ? "바위" : "보");
-		printf("   컴퓨터 : %s\n", num1 == 1 ? "가위" : num1 == 2 ? "바위" : "보");
+		printf("\n     사용자\n");
+		if (answer1 == 1)
+		{
+			for (int i = 0; i < 6; i++)
+			{
+				for (int j = 0; j < 20; j++)
+					printf("%c", Image[0][i][j]);
+				printf("\n");
+			}
+			printf("     <가위>\n");
+		}
+		else if (answer1 == 2)
+		{
+			for (int i = 0; i < 6; i++)
+			{
+				for (int j = 0; j < 20; j++)
+					printf("%c", Image[1][i][j]);
+				printf("\n");
+			}
+			printf("     <바위>\n");
+		}
+		else if (answer1 == 3)
+		{
+			for (int i = 0; i < 6; i++)
+			{
+				for (int j = 0; j < 20; j++)
+					printf("%c", Image[2][i][j]);
+				printf("\n");
+			}
+			printf("      <보>\n");
+		}
+		printf("\n     컴퓨터\n");
+		if (num1 == 1)
+		{
+			for (int i = 0; i < 6; i++)
+			{
+				for (int j = 0; j < 20; j++)
+					printf("%c", Image[0][i][j]);
+				printf("\n");
+			}
+			printf("     <가위>\n");
+		}
+		else if (num1 == 2)
+		{
+			for (int i = 0; i < 6; i++)
+			{
+				for (int j = 0; j < 20; j++)
+					printf("%c", Image[1][i][j]);
+				printf("\n");
+			}
+			printf("     <바위>\n");
+		}
+		else if (num1 == 3)
+		{
+			for (int i = 0; i < 6; i++)
+			{
+				for (int j = 0; j < 20; j++)
+					printf("%c", Image[2][i][j]);
+				printf("\n");
+			}
+			printf("      <보>\n");
+		}
 		printf("1라운드 통과. 다음 라운드로 넘어갑니다.\n");
 	}
 	else
 	{
-		printf("\n사용자 : %s   vs", answer1 == 1 ? "가위" : answer1 == 2 ? "바위" : "보");
-		printf("   컴퓨터 : %s\n", num1 == 1 ? "가위" : num1 == 2 ? "바위" : "보");
-		printf("1라운드 탈락. ");
+		printf("\n     사용자\n");
+		if (answer1 == 1)
+		{
+			for (int i = 0; i < 6; i++)
+			{
+				for (int j = 0; j < 20; j++)
+					printf("%c", Image[0][i][j]);
+				printf("\n");
+			}
+			printf("     <가위>\n");
+		}
+		else if (answer1 == 2)
+		{
+			for (int i = 0; i < 6; i++)
+			{
+				for (int j = 0; j < 20; j++)
+					printf("%c", Image[1][i][j]);
+				printf("\n");
+			}
+			printf("     <바위>\n");
+		}
+		else if (answer1 == 3)
+		{
+			for (int i = 0; i < 6; i++)
+			{
+				for (int j = 0; j < 20; j++)
+					printf("%c", Image[2][i][j]);
+				printf("\n");
+			}
+			printf("      <보>\n");
+		}
+		printf("\n     컴퓨터\n");
+		if (num1 == 1)
+		{
+			for (int i = 0; i < 6; i++)
+			{
+				for (int j = 0; j < 20; j++)
+					printf("%c", Image[0][i][j]);
+				printf("\n");
+			}
+			printf("     <가위>\n");
+		}
+		else if (num1 == 2)
+		{
+			for (int i = 0; i < 6; i++)
+			{
+				for (int j = 0; j < 20; j++)
+					printf("%c", Image[1][i][j]);
+				printf("\n");
+			}
+			printf("     <바위>\n");
+		}
+		else if (num1 == 3)
+		{
+			for (int i = 0; i < 6; i++)
+			{
+				for (int j = 0; j < 20; j++)
+					printf("%c", Image[2][i][j]);
+				printf("\n");
+			}
+			printf("      <보>\n");
+		}
+		printf("\n1라운드 탈락. ");
 
 		/**/
 		srand(time(NULL));
