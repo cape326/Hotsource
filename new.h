@@ -3,7 +3,7 @@
 #include <stdlib.h> 
 #include <time.h> 
 
-int new()
+void new()
 {
 	srand(time(NULL));
 	int random = 0;
