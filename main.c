@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include <time.h>
 #include "rock.h"
+#include "new.h"
 
 int main()
 {
