@@ -202,10 +202,5 @@ void round1()
 			printf("      <보>\n");
 		}
 		printf("\n1라운드 탈락. ");
-
-		/**/
-		srand(time(NULL));
-		num6 = rand() % ((480 - 161) + 1) + 161;
-		printf("%d등 입니다.\n", num6);
 	}
 }
