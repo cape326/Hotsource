@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int main(){
-
+void mat(){
 
 char truelist[20]="꺼매졌다";
 char falselist[20]="까매졌다";
