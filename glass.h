@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <time.h>
-
 void Glass_Game()
 {
 	int glass;
