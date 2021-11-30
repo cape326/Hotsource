@@ -53,11 +53,11 @@ char Image[][6][20] =
 
 void round1()
 {
-	int num1, answer1, num6;
+	int num1, answer1, num6, rank;
 	srand(time(NULL));
 	num1 = rand() % 3 + 1;
 
-	system("mode con cols=70 lines=30");
+	system("mode con cols=70 lines=35");
 
 	printf("\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
 	printf("\t\t┃     <Round 1> 가위바위보    ┃\n");
@@ -214,5 +214,8 @@ void round1()
 			printf("\t\t       <보>\n");
 		}
 		printf("\n1라운드 탈락. ");
+		srand(time(NULL));
+	        rank = rand() % ((480 - 161) + 1) + 161;
+		printf("당신은 %d등입니다.\n", rank);
 	}
 }
