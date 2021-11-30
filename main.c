@@ -6,7 +6,7 @@
 int main()
 {
   round1();
-  
+  new();
   Glass_Game();
   
   return 0;
