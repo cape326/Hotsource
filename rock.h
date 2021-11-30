@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <time.h>
-
 char Image[][6][20] =
 {
 
