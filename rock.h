@@ -56,15 +56,19 @@ void round1()
 	int num1, answer1, num6;
 	srand(time(NULL));
 	num1 = rand() % 3 + 1;
-	printf("┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
-	printf("┃     <Round 1> 가위바위보      ┃\n");
-	printf("┃                              ┃\n");
-	printf("┃   비기거나 지면 탈락입니다.    ┃\n");
-	printf("┃                             ┃\n");
-	printf("┃           1. 가위            ┃\n");
-	printf("┃           2. 바위            ┃\n");
-	printf("┃           3. 보              ┃\n");
-	printf("┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+	
+	system("mode con cols=70 lines=30");
+  
+	printf("\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t┃     <Round 1> 가위바위보    ┃\n");
+	printf("\t\t┃                             ┃\n");
+	printf("\t\t┃   비기거나 지면 탈락입니다. ┃\n");
+	printf("\t\t┃                             ┃\n");
+	printf("\t\t┃           1. 가위           ┃\n");
+	printf("\t\t┃           2. 바위           ┃\n");
+	printf("\t\t┃           3. 보             ┃\n");
+	printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+	
 	printf("Please enter key > ");
 	scanf("%d", &answer1);
 	if (num1 == 1 && answer1 == 2 || num1 == 2 && answer1 == 3 || num1 == 3 && answer1 == 1)
