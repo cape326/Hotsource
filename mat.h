@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <string.h>
-
 void mat(){
 
 char truelist[20]="꺼매졌다";
