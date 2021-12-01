@@ -1,3 +1,8 @@
+#include <stdio.h>
+#include <string.h>    
+#include <stdlib.h> 
+#include <time.h> 
+
 void new()
 {
 	srand(time(NULL));
@@ -32,7 +37,7 @@ void new()
 	{
 	case 0:
 		printf("관크는 무엇의 약자인가요?\n");
-		scanf("%s", n);
+		gets(n);
 		if (strcmp(n, n0) == 0)
 			printf("pass");
 		else
@@ -40,7 +45,7 @@ void new()
 		break;
 	case 1:
 		printf("팬아저는 무엇의 약자인가?\n");
-		scanf("%s", n);
+		gets(n);
 		if (strcmp(n, n1) == 0)
 			printf("pass");
 		else
@@ -48,7 +53,7 @@ void new()
 		break;
 	case 2:
 		printf("알잘딱깔센은 무엇의 약자인가요?\n");
-		scanf("%s", n);
+		gets(n);
 		if (strcmp(n, n2) == 0)
 			printf("pass");
 		else
@@ -56,7 +61,7 @@ void new()
 		break;
 	case 3:
 		printf("설참은 무엇의 약자인가요?\n");
-		scanf("%s", n);
+		gets(n);
 		if (strcmp(n, n3) == 0)
 			printf("pass");
 		else
@@ -64,7 +69,7 @@ void new()
 		break;
 	case 4:
 		printf("불소는 무엇의 약자인가요?\n");
-		scanf("%s", n);
+		gets(n);
 		if (strcmp(n, n4) == 0)
 			printf("pass");
 		else
@@ -72,7 +77,7 @@ void new()
 		break;
 	case 5:
 		printf("당모치는 무엇의 약자인가요?\n");
-		scanf("%s", n);
+		gets(n);
 		if (strcmp(n, n5) == 0)
 			printf("pass");
 		else
@@ -80,7 +85,7 @@ void new()
 		break;
 	case 6:
 		printf("군싹는 무엇의 약자인가요?\n");
-		scanf("%s", n);
+		gets(n);
 		if (strcmp(n, n6) == 0)
 			printf("pass");
 		else
@@ -88,7 +93,7 @@ void new()
 		break;
 	case 7:
 		printf("스불재는 무엇의 약자인가요?\n");
-		scanf("%s", n);
+		gets(n);
 		if (strcmp(n, n7) == 0)
 			printf("pass");
 		else
@@ -96,7 +101,7 @@ void new()
 		break;
 	case 8:
 		printf("괄도네넴띤은 무엇을 뜻하는 건가요?\n");
-		scanf("%s", n);
+		gets(n);
 		if (strcmp(n, n8) == 0)
 			printf("pass");
 		else
@@ -104,7 +109,7 @@ void new()
 		break;
 	case 9:
 		printf("롬곡는 무엇을 뜻하는 건가요?\n");
-		scanf("%s", n);
+		gets(n);
 		if (strcmp(n, n9) == 0)
 			printf("pass");
 		else
@@ -112,7 +117,7 @@ void new()
 		break;
 	case 10:
 		printf("비담은 무엇의 약자인가요?\n");
-		scanf("%s", n);
+		gets(n);
 		if (strcmp(n, n10) == 0)
 			printf("pass");
 		else
@@ -120,7 +125,7 @@ void new()
 		break;
 	case 11:
 		printf("별다줄은 무엇의 약자인가요?\n");
-		scanf("%s", n);
+		gets(n);
 		if (strcmp(n, n11) == 0)
 			printf("pass");
 		else
@@ -128,7 +133,7 @@ void new()
 		break;
 	case 12:
 		printf("복세편살은 무엇의 약자인가요?\n");
-		scanf("%s", n);
+		gets(n);
 		if (strcmp(n, n12) == 0)
 			printf("pass");
 		else
@@ -136,7 +141,7 @@ void new()
 		break;
 	case 13:
 		printf("ㅈㄱㄴ는 무엇의 약자인가요?\n");
-		scanf("%s", n);
+		gets(n);
 		if (strcmp(n, n13) == 0)
 			printf("pass");
 		else
@@ -144,7 +149,7 @@ void new()
 		break;
 	case 14:
 		printf("5°5:5는 무엇을 뜻하나요?\n");
-		scanf("%s", n);
+		gets(n);
 		if (strcmp(n, n14) == 0)
 			printf("pass");
 		else
@@ -152,7 +157,7 @@ void new()
 		break;
 	case 15:
 		printf("꾸꾸꾸는 무엇의 약자인가요?\n");
-		scanf("%s", n);
+		gets(n);
 		if (strcmp(n, n15) == 0)
 			printf("pass");
 		else
@@ -160,7 +165,7 @@ void new()
 		break;
 	case 16:
 		printf("ㅈㅂㅈㅇ는 무엇을 뜻하나요?\n");
-		scanf("%s", n);
+		gets(n);
 		if (strcmp(n, n16) == 0)
 			printf("pass");
 		else
@@ -168,7 +173,7 @@ void new()
 		break;
 	case 17:
 		printf("얼죽코는 무엇의 약자인가요?\n");
-		scanf("%s", n);
+		gets(n);
 		if (strcmp(n, n17) == 0)
 			printf("pass");
 		else
@@ -176,7 +181,7 @@ void new()
 		break;
 	case 18:
 		printf("갑통알은 무엇의 약자인가요?\n");
-		scanf("%s", n);
+		gets(n);
 		if (strcmp(n, n18) == 0)
 			printf("pass");
 		else
@@ -184,7 +189,7 @@ void new()
 		break;
 	case 19:
 		printf("자낳괴는 무엇의 약자인가요?\n");
-		scanf("%s", n);
+		gets(n);
 		if (strcmp(n, n19) == 0)
 			printf("pass");
 		else
@@ -194,3 +199,4 @@ void new()
 
 	return 0;
 }
+
