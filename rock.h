@@ -221,6 +221,6 @@ void round1()
 	printf("\t\t (っ┎∈=---  ******* \n");
 	printf("\t\t  /　　 )\n");
 	printf("\t\t  ( /￣∪\n");
-	printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n",
+	printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", Rock_Rank);
 	}
 }
