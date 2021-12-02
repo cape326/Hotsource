@@ -53,9 +53,9 @@ char Image[][6][20] =
 
 void round1()
 {
-	int num1, answer1, num6, rank;
+	int num1, answer1, num6, Rock_Rank;
 	srand(time(NULL));
-	num1 = rand() % 3 + 1;
+	Rock_Rank = rand() % 3 + 1;
 
 	system("mode con cols=70 lines=35");
 
@@ -213,9 +213,14 @@ void round1()
 			}
 			printf("\t\t       <보>\n");
 		}
-		printf("\n1라운드 탈락. ");
-		srand(time(NULL));
-	        rank = rand() % ((480 - 161) + 1) + 161;
-		printf("당신은 %d등입니다.\n", rank);
+	srand(time(NULL));
+	Rock_Rank = rand() % ((480 - 161) + 1) + 161;  //161~480까지의 수에서 랜덤 추출   (가위바위보)
+	
+	printf("\t\t  ∧__∧　　\n");
+	printf("\t\t ( ｀Д´）　　\n");
+	printf("\t\t (っ┎∈=---  ******* \n");
+	printf("\t\t  /　　 )\n");
+	printf("\t\t  ( /￣∪\n");
+	printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n",
 	}
 }
