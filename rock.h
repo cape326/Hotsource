@@ -142,6 +142,7 @@ void round1()
 			printf("\t\t       <보>\n");
 		}
 		printf("\n1라운드 통과. 다음 라운드로 넘어갑니다.\n");
+		system("pause");
 	}
 	else
 	{
@@ -222,5 +223,7 @@ void round1()
 	printf("\t\t  /　　 )\n");
 	printf("\t\t  ( /￣∪\n");
 	printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", Rock_Rank);
+	system("pause");
+	exit(0);
 	}
 }
