@@ -670,6 +670,8 @@ void Ending_First_Lines()
 	printf("\t\t\t　　　　 ()\n");
 
 	printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", Glass_Rank1);
+	
+	system("pause");
 }
 
 void Ending_Second_Lines()
@@ -693,6 +695,8 @@ void Ending_Second_Lines()
 	printf("\t\t\t　　　　 ()\n");
 
 	printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", Glass_Rank2);
+	
+	system("pause");
 }
 
 void Ending_Third_Lines()
@@ -716,6 +720,8 @@ void Ending_Third_Lines()
 	printf("\t\t\t　　　　 ()\n");
 
 	printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", Glass_Rank3);
+	
+	system("pause");
 }
 
 void Ending_Fourth_Lines()
@@ -739,6 +745,8 @@ void Ending_Fourth_Lines()
 	printf("\t\t\t　　　　 ()\n");
 
 	printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", Glass_Rank4);
+	
+	system("pause");
 }
 
 void Glass_Game()
