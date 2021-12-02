@@ -55,7 +55,7 @@ void round1()
 {
 	int num1, answer1, num6, Rock_Rank;
 	srand(time(NULL));
-	Rock_Rank = rand() % 3 + 1;
+	num1 = rand() % 3 + 1;
 
 	system("mode con cols=70 lines=35");
 
