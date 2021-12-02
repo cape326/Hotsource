@@ -649,6 +649,98 @@ void Fourth_2222()
 	printf("\n");
 }
 
+void Ending_First_Lines()
+{
+	int Glass_Rank1;
+
+	srand(time(NULL));
+	Glass_Rank1 = rand() % ((16 - 9) + 1) + 9;     //9~16까지의 수에서 랜덤 추출      (유리1회)
+
+	printf("\t\t\t　＿＿_／(＿＿_\n");
+	printf("\t\t\t／　　(＿＿＿／\n");
+	printf("\t\t\t￣￣￣￣￣\n");
+	printf("\t\t\t       ||   \n");
+	printf("\t\t\t            ||\n");
+	printf("\t\t\t       ||   \n");
+	printf("\t\t\t            ||\n");
+	printf("\t\t\t　　　 　∧∧ ∩\n");
+	printf("\t\t\t　     (`oωo)/\n");
+	printf("\t\t\t　　　⊂　　ノ\n");
+	printf("\t\t\t　　　　(つノ\n");
+	printf("\t\t\t　　　　 ()\n");
+
+	printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", Glass_Rank1);
+}
+
+void Ending_Second_Lines()
+{
+	int Glass_Rank2;
+
+	srand(time(NULL));
+	Glass_Rank2 = rand() % ((8 - 5) + 1) + 5;      //5~8까지의 수에서 랜덤 추출    (유리2회)
+
+	printf("\t\t\t　＿＿_／(＿＿_\n");
+	printf("\t\t\t／　　(＿＿＿／\n");
+	printf("\t\t\t￣￣￣￣￣\n");
+	printf("\t\t\t       ||   \n");
+	printf("\t\t\t            ||\n");
+	printf("\t\t\t       ||   \n");
+	printf("\t\t\t            ||\n");
+	printf("\t\t\t　　　 　∧∧ ∩\n");
+	printf("\t\t\t　     (`oωo)/\n");
+	printf("\t\t\t　　　⊂　　ノ\n");
+	printf("\t\t\t　　　　(つノ\n");
+	printf("\t\t\t　　　　 ()\n");
+
+	printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", Glass_Rank2);
+}
+
+void Ending_Third_Lines()
+{
+	int Glass_Rank3;
+
+	srand(time(NULL));
+	Glass_Rank3 = rand() % ((4 - 3) + 1) + 3;      //3~4까지의 수에서 랜덤 추출    (유리3회)
+
+	printf("\t\t\t　＿＿_／(＿＿_\n");
+	printf("\t\t\t／　　(＿＿＿／\n");
+	printf("\t\t\t￣￣￣￣￣\n");
+	printf("\t\t\t       ||   \n");
+	printf("\t\t\t            ||\n");
+	printf("\t\t\t       ||   \n");
+	printf("\t\t\t            ||\n");
+	printf("\t\t\t　　　 　∧∧ ∩\n");
+	printf("\t\t\t　     (`oωo)/\n");
+	printf("\t\t\t　　　⊂　　ノ\n");
+	printf("\t\t\t　　　　(つノ\n");
+	printf("\t\t\t　　　　 ()\n");
+
+	printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", Glass_Rank3);
+}
+
+void Ending_Fourth_Lines()
+{
+	int Glass_Rank4;
+
+	srand(time(NULL));
+	Glass_Rank4 = 2;                   // 유리4회에서 탈락
+
+	printf("\t\t\t　＿＿_／(＿＿_\n");
+	printf("\t\t\t／　　(＿＿＿／\n");
+	printf("\t\t\t￣￣￣￣￣\n");
+	printf("\t\t\t       ||   \n");
+	printf("\t\t\t            ||\n");
+	printf("\t\t\t       ||   \n");
+	printf("\t\t\t            ||\n");
+	printf("\t\t\t　　　 　∧∧ ∩\n");
+	printf("\t\t\t　     (`oωo)/\n");
+	printf("\t\t\t　　　⊂　　ノ\n");
+	printf("\t\t\t　　　　(つノ\n");
+	printf("\t\t\t　　　　 ()\n");
+
+	printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", Glass_Rank4);
+}
+
 void Glass_Game()
 {
 	int glass;
@@ -658,8 +750,7 @@ void Glass_Game()
 
 	srand(time(NULL));
 	glass = rand() % 2 + 1;
-	printf("\nglass= %d\n", glass);
-	scanf("%d", &answer);
+	scanf_s("%d", &answer);
 
 	if (glass == answer && glass == 1)                    //  1
 	{
@@ -667,8 +758,7 @@ void Glass_Game()
 
 		srand(time(NULL));
 		glass = rand() % 2 + 1;
-		printf("\nglass= %d\n", glass);
-		scanf("%d", &answer);
+		scanf_s("%d", &answer);
 
 		if (glass == answer && glass == 1)               // 11
 		{
@@ -676,8 +766,7 @@ void Glass_Game()
 
 			srand(time(NULL));
 			glass = rand() % 2 + 1;
-			printf("\nglass= %d\n", glass);
-			scanf("%d", &answer);
+			scanf_s("%d", &answer);
 
 			if (glass == answer && glass == 1)                   //111
 			{
@@ -685,8 +774,7 @@ void Glass_Game()
 
 				srand(time(NULL));
 				glass = rand() % 2 + 1;
-				printf("\nglass= %d\n", glass);
-				scanf("%d", &answer);
+				scanf_s("%d", &answer);
 
 				if (glass == answer && glass == 1)                       //1111
 				{
@@ -698,8 +786,7 @@ void Glass_Game()
 				}
 				else                                                     //111*
 				{
-					printf("당신은 탈락했습니다.\n");
-					exit(0);
+					Ending_Fourth_Lines();
 				}
 			}
 			else if (glass == answer && glass == 2)             //112
@@ -708,8 +795,7 @@ void Glass_Game()
 
 				srand(time(NULL));
 				glass = rand() % 2 + 1;
-				printf("\nglass= %d\n", glass);
-				scanf("%d", &answer);
+				scanf_s("%d", &answer);
 
 				if (glass == answer && glass == 1)                       //1121
 				{
@@ -721,15 +807,13 @@ void Glass_Game()
 				}
 				else                                                     //112*
 				{
-					printf("당신은 탈락했습니다.\n");
-					exit(0);
+					Ending_Fourth_Lines();
 				}
 
 			}
-			else
+			else                                           //11*
 			{
-				printf("당신은 탈락했습니다.\n");
-				exit(0);
+				Ending_Third_Lines();
 			}
 
 		}
@@ -739,8 +823,7 @@ void Glass_Game()
 
 			srand(time(NULL));
 			glass = rand() % 2 + 1;
-			printf("\nglass= %d\n", glass);
-			scanf("%d", &answer);
+			scanf_s("%d", &answer);
 
 			if (glass == answer && glass == 1)               //121
 			{
@@ -748,8 +831,7 @@ void Glass_Game()
 
 				srand(time(NULL));
 				glass = rand() % 2 + 1;
-				printf("\nglass= %d\n", glass);
-				scanf("%d", &answer);
+				scanf_s("%d", &answer);
 
 				if (glass == answer && glass == 1)                    //1211
 				{
@@ -761,8 +843,7 @@ void Glass_Game()
 				}
 				else                                                  //121*
 				{
-					printf("당신은 탈락했습니다.\n");
-					exit(0);
+					Ending_Fourth_Lines();
 				}
 			}
 			else if (glass == answer && glass == 2)          //122
@@ -771,8 +852,7 @@ void Glass_Game()
 
 				srand(time(NULL));
 				glass = rand() % 2 + 1;
-				printf("\nglass= %d\n", glass);
-				scanf("%d", &answer);
+				scanf_s("%d", &answer);
 
 				if (glass == answer && glass == 1)                   //1221
 				{
@@ -782,22 +862,19 @@ void Glass_Game()
 				{
 					Fourth_1222();
 				}
-				else
+				else                                                       //122*
 				{
-					printf("당신은 탈락했습니다.\n");
-					exit(0);
+					Ending_Fourth_Lines();
 				}
 			}
 			else                                             //12*
 			{
-				printf("당신은 탈락했습니다.\n");
-				exit(0);
+				Ending_Third_Lines();
 			}
 		}
 		else                                         //1*
 		{
-			printf("당신은 탈락했습니다.\n");
-			exit(0);
+		     Ending_Second_Lines();
 		}
 
 
@@ -808,8 +885,7 @@ void Glass_Game()
 
 		srand(time(NULL));
 		glass = rand() % 2 + 1;
-		printf("\nglass= %d\n", glass);
-		scanf("%d", &answer);
+		scanf_s("%d", &answer);
 
 		if (glass == answer && glass == 1)               //21
 		{
@@ -817,8 +893,7 @@ void Glass_Game()
 
 			srand(time(NULL));
 			glass = rand() % 2 + 1;
-			printf("\nglass= %d\n", glass);
-			scanf("%d", &answer);
+			scanf_s("%d", &answer);
 
 			if (glass == answer && glass == 1)            //211
 			{
@@ -826,8 +901,7 @@ void Glass_Game()
 
 				srand(time(NULL));
 				glass = rand() % 2 + 1;
-				printf("\nglass= %d\n", glass);
-				scanf("%d", &answer);
+				scanf_s("%d", &answer);
 
 				if (glass == answer && glass == 1)                //2111
 				{
@@ -839,8 +913,7 @@ void Glass_Game()
 				}
 				else                                               //211*
 				{
-					printf("당신은 탈락했습니다.\n");
-					exit(0);
+					Ending_Fourth_Lines();
 				}
 			}
 			else if (glass == answer && glass == 2)      //212
@@ -849,8 +922,7 @@ void Glass_Game()
 
 				srand(time(NULL));
 				glass = rand() % 2 + 1;
-				printf("\nglass= %d\n", glass);
-				scanf("%d", &answer);
+				scanf_s("%d", &answer);
 
 				if (glass == answer && glass == 1)                //2121
 				{
@@ -860,16 +932,14 @@ void Glass_Game()
 				{
 					Fourth_2122();
 				}
-				else
+				else                                                //212*
 				{
-					printf("당신은 탈락했습니다.\n");
-					exit(0);
+					Ending_Fourth_Lines();
 				}
 			}
 			else                                        //21*
 			{
-				printf("당신은 탈락했습니다.\n");
-				exit(0);
+				Ending_Third_Lines();
 			}
 
 		}
@@ -879,8 +949,7 @@ void Glass_Game()
 
 			srand(time(NULL));
 			glass = rand() % 2 + 1;
-			printf("\nglass= %d\n", glass);
-			scanf("%d", &answer);
+			scanf_s("%d", &answer);
 
 			if (glass == answer && glass == 1)                 //221
 			{
@@ -888,8 +957,7 @@ void Glass_Game()
 
 				srand(time(NULL));
 				glass = rand() % 2 + 1;
-				printf("\nglass= %d\n", glass);
-				scanf("%d", &answer);
+				scanf_s("%d", &answer);
 
 				if (glass == answer && glass == 1)                 //2211
 				{
@@ -899,10 +967,9 @@ void Glass_Game()
 				{
 					Fourth_2212();
 				}
-				else
+				else                                              //221*
 				{
-					printf("당신은 탈락했습니다.\n");
-					exit(0);
+					Ending_Fourth_Lines();
 				}
 			}
 			else if (glass == answer && glass == 2)         //222
@@ -911,8 +978,7 @@ void Glass_Game()
 
 				srand(time(NULL));
 				glass = rand() % 2 + 1;
-				printf("\nglass= %d\n", glass);
-				scanf("%d", &answer);
+				scanf_s("%d", &answer);
 
 				if (glass == answer && glass == 1)            //2221
 				{
@@ -922,28 +988,24 @@ void Glass_Game()
 				{
 					Fourth_2222();
 				}
-				else
+				else                                          //222*
 				{
-					printf("당신은 탈락했습니다.\n");
-					exit(0);
+					Ending_Fourth_Lines();
 				}
 			}
 			else                                               //22*
 			{
-				printf("당신은 탈락했습니다.\n");
-				exit(0);
+				Ending_Third_Lines();
 			}
 		}
 		else                                          //2*
 		{
-			printf("당신은 탈락했습니다.\n");
-			exit(0);
+		     Ending_Second_Lines();
 		}
 
 	}
 	else                                              //*
 	{
-		printf("당신은 탈락했습니다.\n");
-		exit(0);
+	    Ending_First_Lines();
 	}
 }
