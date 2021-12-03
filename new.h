@@ -40,7 +40,6 @@ void new()
 		{
 			printf("pass\n");
 			system("pause");
-			exit(0);
 		}
 		else
 		{
@@ -68,7 +67,6 @@ void new()
 		{
 			printf("pass\n");
 			system("pause");
-			exit(0);
 		}
 		else
 		{
@@ -96,7 +94,6 @@ void new()
 		{
 			printf("pass\n");
 			system("pause");
-			exit(0);
 		}
 		else
 		{
@@ -124,7 +121,6 @@ void new()
 		{
 			printf("pass\n");
 			system("pause");
-			exit(0);
 		}
 		else
 		{
@@ -152,7 +148,6 @@ void new()
 		{
 			printf("pass\n");
 			system("pause");
-			exit(0);
 		}
 		else
 		{
@@ -180,7 +175,6 @@ void new()
 		{
 			printf("pass\n");
 			system("pause");
-			exit(0);
 		}
 		else
 		{
@@ -208,7 +202,6 @@ void new()
 		{
 			printf("pass\n");
 			system("pause");
-			exit(0);
 		}
 		else
 		{
@@ -236,7 +229,6 @@ void new()
 		{
 			printf("pass\n");
 			system("pause");
-			exit(0);
 		}
 		else
 		{
@@ -264,7 +256,6 @@ void new()
 		{
 			printf("pass\n");
 			system("pause");
-			exit(0);
 		}
 		else
 		{
@@ -292,7 +283,6 @@ void new()
 		{
 			printf("pass\n");
 			system("pause");
-			exit(0);
 		}
 		else
 		{
@@ -320,7 +310,6 @@ void new()
 		{
 			printf("pass\n");
 			system("pause");
-			exit(0);
 		}
 		else
 		{
@@ -348,7 +337,6 @@ void new()
 		{
 			printf("pass\n");
 			system("pause");
-			exit(0);
 		}
 		else
 		{
@@ -376,7 +364,6 @@ void new()
 		{
 			printf("pass\n");
 			system("pause");
-			exit(0);
 		}
 		else
 		{
@@ -404,7 +391,6 @@ void new()
 		{
 			printf("pass\n");
 			system("pause");
-			exit(0);
 		}
 		else
 		{
@@ -432,7 +418,6 @@ void new()
 		{
 			printf("pass\n");
 			system("pause");
-			exit(0);
 		}
 		else
 		{
@@ -460,7 +445,6 @@ void new()
 		{
 			printf("pass\n");
 			system("pause");
-			exit(0);
 		}
 		else
 		{
@@ -488,7 +472,6 @@ void new()
 		{
 			printf("pass\n");
 			system("pause");
-			exit(0);
 		}
 		else
 		{
@@ -516,7 +499,6 @@ void new()
 		{
 			printf("pass\n");
 			system("pause");
-			exit(0);
 		}
 		else
 		{
@@ -544,7 +526,6 @@ void new()
 		{
 			printf("pass\n");
 			system("pause");
-			exit(0);
 		}
 		else
 		{
@@ -572,7 +553,6 @@ void new()
 		{
 			printf("pass\n");
 			system("pause");
-			exit(0);
 		}
 		else
 		{
