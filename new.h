@@ -38,13 +38,13 @@ void new()
 		gets(n);
 		if (strcmp(n, n0) == 0)
 		{
-			printf("pass");
+			printf("pass\n");
 			system("pause");
 			exit(0);
 		}
 		else
 		{
-			printf("fail");
+			printf("fail\n");
 			system("pause");
 			exit(0);
 		}
@@ -55,13 +55,13 @@ void new()
 		gets(n);
 		if (strcmp(n, n1) == 0)
 		{
-			printf("pass");
+			printf("pass\n");
 			system("pause");
 			exit(0);
 		}
 		else
 		{
-			printf("fail");
+			printf("fail\n");
 			system("pause");
 			exit(0);
 		}
@@ -72,13 +72,13 @@ void new()
 		gets(n);
 		if (strcmp(n, n2) == 0)
 		{
-			printf("pass");
+			printf("pass\n");
 			system("pause");
 			exit(0);
 		}
 		else
 		{
-			printf("fail");
+			printf("fail\n");
 			system("pause");
 			exit(0);
 		}
@@ -89,13 +89,13 @@ void new()
 		gets(n);
 		if (strcmp(n, n3) == 0)
 		{
-			printf("pass");
+			printf("pass\n");
 			system("pause");
 			exit(0);
 		}
 		else
 		{
-			printf("fail");
+			printf("fail\n");
 			system("pause");
 			exit(0);
 		}
@@ -106,13 +106,13 @@ void new()
 		gets(n);
 		if (strcmp(n, n4) == 0)
 		{
-			printf("pass");
+			printf("pass\n");
 			system("pause");
 			exit(0);
 		}
 		else
 		{
-			printf("fail");
+			printf("fail\n");
 			system("pause");
 			exit(0);
 		}
@@ -123,30 +123,30 @@ void new()
 		gets(n);
 		if (strcmp(n, n5) == 0)
 		{
-			printf("pass");
+			printf("pass\n");
 			system("pause");
 			exit(0);
 		}
 		else
 		{
-			printf("fail");
+			printf("fail\n");
 			system("pause");
 			exit(0);
 		}
 		break;
 	case 6:
-		printf("\t\t┃   군싹는 무엇의 약자인가요?  ┃\n");
+		printf("\t\t┃   군싹은 무엇의 약자인가요?  ┃\n");
 		printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
 		gets(n);
 		if (strcmp(n, n6) == 0)
 		{
-			printf("pass");
+			printf("pass\n");
 			system("pause");
 			exit(0);
 		}
 		else
 		{
-			printf("fail");
+			printf("fail\n");
 			system("pause");
 			exit(0);
 		}
@@ -157,13 +157,13 @@ void new()
 		gets(n);
 		if (strcmp(n, n7) == 0)
 		{
-			printf("pass");
+			printf("pass\n");
 			system("pause");
 			exit(0);
 		}
 		else
 		{
-			printf("fail");
+			printf("fail\n");
 			system("pause");
 			exit(0);
 		}
@@ -174,30 +174,30 @@ void new()
 		gets(n);
 		if (strcmp(n, n8) == 0)
 		{
-			printf("pass");
+			printf("pass\n");
 			system("pause");
 			exit(0);
 		}
 		else
 		{
-			printf("fail");
+			printf("fail\n");
 			system("pause");
 			exit(0);
 		}
 		break;
 	case 9:
-		printf("\t\t┃ 롬곡는 무엇을 뜻하는 건가요? ┃\n");
+		printf("\t\t┃ 롬곡은 무엇을 뜻하는 건가요? ┃\n");
 		printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
 		gets(n);
 		if (strcmp(n, n9) == 0)
 		{
-			printf("pass");
+			printf("pass\n");
 			system("pause");
 			exit(0);
 		}
 		else
 		{
-			printf("fail");
+			printf("fail\n");
 			system("pause");
 			exit(0);
 		}
@@ -208,13 +208,13 @@ void new()
 		gets(n);
 		if (strcmp(n, n10) == 0)
 		{
-			printf("pass");
+			printf("pass\n");
 			system("pause");
 			exit(0);
 		}
 		else
 		{
-			printf("fail");
+			printf("fail\n");
 			system("pause");
 			exit(0);
 		}
@@ -225,13 +225,13 @@ void new()
 		gets(n);
 		if (strcmp(n, n11) == 0)
 		{
-			printf("pass");
+			printf("pass\n");
 			system("pause");
 			exit(0);
 		}
 		else
 		{
-			printf("fail");
+			printf("fail\n");
 			system("pause");
 			exit(0);
 		}
@@ -242,13 +242,13 @@ void new()
 		gets(n);
 		if (strcmp(n, n12) == 0)
 		{
-			printf("pass");
+			printf("pass\n");
 			system("pause");
 			exit(0);
 		}
 		else
 		{
-			printf("fail");
+			printf("fail\n");
 			system("pause");
 			exit(0);
 		}
@@ -259,13 +259,13 @@ void new()
 		gets(n);
 		if (strcmp(n, n13) == 0)
 		{
-			printf("pass");
+			printf("pass\n");
 			system("pause");
 			exit(0);
 		}
 		else
 		{
-			printf("fail");
+			printf("fail\n");
 			system("pause");
 			exit(0);
 		}
@@ -276,13 +276,13 @@ void new()
 		gets(n);
 		if (strcmp(n, n14) == 0)
 		{
-			printf("pass");
+			printf("pass\n");
 			system("pause");
 			exit(0);
 		}
 		else
 		{
-			printf("fail");
+			printf("fail\n");
 			system("pause");
 			exit(0);
 		}
@@ -293,13 +293,13 @@ void new()
 		gets(n);
 		if (strcmp(n, n15) == 0)
 		{
-			printf("pass");
+			printf("pass\n");
 			system("pause");
 			exit(0);
 		}
 		else
 		{
-			printf("fail");
+			printf("fail\n");
 			system("pause");
 			exit(0);
 		}
@@ -310,13 +310,13 @@ void new()
 		gets(n);
 		if (strcmp(n, n16) == 0)
 		{
-			printf("pass");
+			printf("pass\n");
 			system("pause");
 			exit(0);
 		}
 		else
 		{
-			printf("fail");
+			printf("fail\n");
 			system("pause");
 			exit(0);
 		}
@@ -327,13 +327,13 @@ void new()
 		gets(n);
 		if (strcmp(n, n17) == 0)
 		{
-			printf("pass");
+			printf("pass\n");
 			system("pause");
 			exit(0);
 		}
 		else
 		{
-			printf("fail");
+			printf("fail\n");
 			system("pause");
 			exit(0);
 		}
@@ -344,13 +344,13 @@ void new()
 		gets(n);
 		if (strcmp(n, n18) == 0)
 		{
-			printf("pass");
+			printf("pass\n");
 			system("pause");
 			exit(0);
 		}
 		else
 		{
-			printf("fail");
+			printf("fail\n");
 			system("pause");
 			exit(0);
 		}
@@ -361,13 +361,13 @@ void new()
 		gets(n);
 		if (strcmp(n, n19) == 0)
 		{
-			printf("pass");
+			printf("pass\n");
 			system("pause");
 			exit(0);
 		}
 		else
 		{
-			printf("fail");
+			printf("fail\n");
 			system("pause");
 			exit(0);
 		}
