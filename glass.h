@@ -791,11 +791,13 @@ void Glass_Game()
 				{
 					Fourth_1111();
 					ending2();
+					system("pause");
 				}
 				else if (glass == answer && glass == 2)                  //1112
 				{
 					Fourth_1112();
 					ending2();
+					system("pause");
 				}
 				else                                                     //111*
 				{
@@ -814,11 +816,13 @@ void Glass_Game()
 				{
 					Fourth_1121();
 					ending2();
+					system("pause");
 				}
 				else if (glass == answer && glass == 2)                   //1122
 				{
 					Fourth_1122();
 					ending2();
+					system("pause");
 				}
 				else                                                     //112*
 				{
@@ -852,11 +856,13 @@ void Glass_Game()
 				{
 					Fourth_1211();
 					ending2();
+					system("pause");
 				}
 				else if (glass == answer && glass == 2)               //1212
 				{
 					Fourth_1212();
 					ending2();
+					system("pause");
 				}
 				else                                                  //121*
 				{
@@ -875,11 +881,13 @@ void Glass_Game()
 				{
 					Fourth_1221();
 					ending2();
+					system("pause");
 				}
 				else if (glass == answer && glass == 2)                     //1222
 				{
 					Fourth_1222();
 					ending2();
+					system("pause");
 				}
 				else                                                       //122*
 				{
@@ -926,11 +934,13 @@ void Glass_Game()
 				{
 					Fourth_2111();
 					ending2();
+					system("pause");
 				}
 				else if (glass == answer && glass == 2)            //2112
 				{
 					Fourth_2112();
 					ending2();
+					system("pause");
 				}
 				else                                               //211*
 				{
@@ -949,11 +959,13 @@ void Glass_Game()
 				{
 					Fourth_2121();
 					ending2();
+					system("pause");
 				}
 				else if (glass == answer && glass == 2)            //2122
 				{
 					Fourth_2122();
 					ending2();
+					system("pause");
 				}
 				else                                                //212*
 				{
@@ -986,11 +998,13 @@ void Glass_Game()
 				{
 					Fourth_2211();
 					ending2();
+					system("pause");
 				}
 				else if (glass == answer && glass == 2)            //2212
 				{
 					Fourth_2212();
 					ending2();
+					system("pause");
 				}
 				else                                              //221*
 				{
@@ -1009,11 +1023,13 @@ void Glass_Game()
 				{
 					Fourth_2221();
 					ending2();
+					system("pause");
 				}
 				else if (glass == answer && glass == 2)        //2222
 				{
 					Fourth_2222();
 					ending2();
+					system("pause");
 				}
 				else                                          //222*
 				{
