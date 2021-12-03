@@ -2,7 +2,7 @@ void new()
 {
 	system("mode con cols=70 lines=35");
 	srand(time(NULL));
-	int random = 0;
+	int random = 0, New_Rank;
 	random = rand() % 20;
 	printf("%d\n", random);
 	printf("\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
@@ -45,6 +45,17 @@ void new()
 		else
 		{
 			printf("fail\n");
+			
+			srand(time(NULL));
+			New_Rank = rand() % ((80 - 17) + 1) + 17;
+
+			printf("\t\t  ∧__∧　　\n");
+			printf("\t\t ( ｀Д´）　　\n");
+			printf("\t\t (っ┎∈=---  ******* \n");
+			printf("\t\t  /　　 )\n");
+			printf("\t\t  ( /￣∪\n");
+			printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", New_Rank);
+
 			system("pause");
 			exit(0);
 		}
@@ -62,6 +73,17 @@ void new()
 		else
 		{
 			printf("fail\n");
+			
+			srand(time(NULL));
+			New_Rank = rand() % ((80 - 17) + 1) + 17;
+
+			printf("\t\t  ∧__∧　　\n");
+			printf("\t\t ( ｀Д´）　　\n");
+			printf("\t\t (っ┎∈=---  ******* \n");
+			printf("\t\t  /　　 )\n");
+			printf("\t\t  ( /￣∪\n");
+			printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", New_Rank);
+
 			system("pause");
 			exit(0);
 		}
@@ -79,6 +101,17 @@ void new()
 		else
 		{
 			printf("fail\n");
+			
+			srand(time(NULL));
+			New_Rank = rand() % ((80 - 17) + 1) + 17;
+
+			printf("\t\t  ∧__∧　　\n");
+			printf("\t\t ( ｀Д´）　　\n");
+			printf("\t\t (っ┎∈=---  ******* \n");
+			printf("\t\t  /　　 )\n");
+			printf("\t\t  ( /￣∪\n");
+			printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", New_Rank);
+
 			system("pause");
 			exit(0);
 		}
@@ -96,6 +129,17 @@ void new()
 		else
 		{
 			printf("fail\n");
+			
+			srand(time(NULL));
+			New_Rank = rand() % ((80 - 17) + 1) + 17;
+
+			printf("\t\t  ∧__∧　　\n");
+			printf("\t\t ( ｀Д´）　　\n");
+			printf("\t\t (っ┎∈=---  ******* \n");
+			printf("\t\t  /　　 )\n");
+			printf("\t\t  ( /￣∪\n");
+			printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", New_Rank);
+
 			system("pause");
 			exit(0);
 		}
@@ -113,6 +157,17 @@ void new()
 		else
 		{
 			printf("fail\n");
+			
+			srand(time(NULL));
+			New_Rank = rand() % ((80 - 17) + 1) + 17;
+
+			printf("\t\t  ∧__∧　　\n");
+			printf("\t\t ( ｀Д´）　　\n");
+			printf("\t\t (っ┎∈=---  ******* \n");
+			printf("\t\t  /　　 )\n");
+			printf("\t\t  ( /￣∪\n");
+			printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", New_Rank);
+
 			system("pause");
 			exit(0);
 		}
@@ -130,6 +185,17 @@ void new()
 		else
 		{
 			printf("fail\n");
+			
+			srand(time(NULL));
+			New_Rank = rand() % ((80 - 17) + 1) + 17;
+
+			printf("\t\t  ∧__∧　　\n");
+			printf("\t\t ( ｀Д´）　　\n");
+			printf("\t\t (っ┎∈=---  ******* \n");
+			printf("\t\t  /　　 )\n");
+			printf("\t\t  ( /￣∪\n");
+			printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", New_Rank);
+
 			system("pause");
 			exit(0);
 		}
@@ -147,6 +213,17 @@ void new()
 		else
 		{
 			printf("fail\n");
+			
+			srand(time(NULL));
+			New_Rank = rand() % ((80 - 17) + 1) + 17;
+
+			printf("\t\t  ∧__∧　　\n");
+			printf("\t\t ( ｀Д´）　　\n");
+			printf("\t\t (っ┎∈=---  ******* \n");
+			printf("\t\t  /　　 )\n");
+			printf("\t\t  ( /￣∪\n");
+			printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", New_Rank);
+
 			system("pause");
 			exit(0);
 		}
@@ -164,6 +241,17 @@ void new()
 		else
 		{
 			printf("fail\n");
+			
+			srand(time(NULL));
+			New_Rank = rand() % ((80 - 17) + 1) + 17;
+
+			printf("\t\t  ∧__∧　　\n");
+			printf("\t\t ( ｀Д´）　　\n");
+			printf("\t\t (っ┎∈=---  ******* \n");
+			printf("\t\t  /　　 )\n");
+			printf("\t\t  ( /￣∪\n");
+			printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", New_Rank);
+
 			system("pause");
 			exit(0);
 		}
@@ -181,6 +269,17 @@ void new()
 		else
 		{
 			printf("fail\n");
+			
+			srand(time(NULL));
+			New_Rank = rand() % ((80 - 17) + 1) + 17;
+
+			printf("\t\t  ∧__∧　　\n");
+			printf("\t\t ( ｀Д´）　　\n");
+			printf("\t\t (っ┎∈=---  ******* \n");
+			printf("\t\t  /　　 )\n");
+			printf("\t\t  ( /￣∪\n");
+			printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", New_Rank);
+
 			system("pause");
 			exit(0);
 		}
@@ -198,6 +297,17 @@ void new()
 		else
 		{
 			printf("fail\n");
+			
+			srand(time(NULL));
+			New_Rank = rand() % ((80 - 17) + 1) + 17;
+
+			printf("\t\t  ∧__∧　　\n");
+			printf("\t\t ( ｀Д´）　　\n");
+			printf("\t\t (っ┎∈=---  ******* \n");
+			printf("\t\t  /　　 )\n");
+			printf("\t\t  ( /￣∪\n");
+			printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", New_Rank);
+
 			system("pause");
 			exit(0);
 		}
@@ -215,6 +325,17 @@ void new()
 		else
 		{
 			printf("fail\n");
+			
+			srand(time(NULL));
+			New_Rank = rand() % ((80 - 17) + 1) + 17;
+
+			printf("\t\t  ∧__∧　　\n");
+			printf("\t\t ( ｀Д´）　　\n");
+			printf("\t\t (っ┎∈=---  ******* \n");
+			printf("\t\t  /　　 )\n");
+			printf("\t\t  ( /￣∪\n");
+			printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", New_Rank);
+
 			system("pause");
 			exit(0);
 		}
@@ -232,6 +353,17 @@ void new()
 		else
 		{
 			printf("fail\n");
+			
+			srand(time(NULL));
+			New_Rank = rand() % ((80 - 17) + 1) + 17;
+
+			printf("\t\t  ∧__∧　　\n");
+			printf("\t\t ( ｀Д´）　　\n");
+			printf("\t\t (っ┎∈=---  ******* \n");
+			printf("\t\t  /　　 )\n");
+			printf("\t\t  ( /￣∪\n");
+			printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", New_Rank);
+
 			system("pause");
 			exit(0);
 		}
@@ -249,6 +381,17 @@ void new()
 		else
 		{
 			printf("fail\n");
+			
+			srand(time(NULL));
+			New_Rank = rand() % ((80 - 17) + 1) + 17;
+
+			printf("\t\t  ∧__∧　　\n");
+			printf("\t\t ( ｀Д´）　　\n");
+			printf("\t\t (っ┎∈=---  ******* \n");
+			printf("\t\t  /　　 )\n");
+			printf("\t\t  ( /￣∪\n");
+			printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", New_Rank);
+
 			system("pause");
 			exit(0);
 		}
@@ -266,6 +409,17 @@ void new()
 		else
 		{
 			printf("fail\n");
+			
+			srand(time(NULL));
+			New_Rank = rand() % ((80 - 17) + 1) + 17;
+
+			printf("\t\t  ∧__∧　　\n");
+			printf("\t\t ( ｀Д´）　　\n");
+			printf("\t\t (っ┎∈=---  ******* \n");
+			printf("\t\t  /　　 )\n");
+			printf("\t\t  ( /￣∪\n");
+			printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", New_Rank);
+
 			system("pause");
 			exit(0);
 		}
@@ -283,6 +437,17 @@ void new()
 		else
 		{
 			printf("fail\n");
+			
+			srand(time(NULL));
+			New_Rank = rand() % ((80 - 17) + 1) + 17;
+
+			printf("\t\t  ∧__∧　　\n");
+			printf("\t\t ( ｀Д´）　　\n");
+			printf("\t\t (っ┎∈=---  ******* \n");
+			printf("\t\t  /　　 )\n");
+			printf("\t\t  ( /￣∪\n");
+			printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", New_Rank);
+
 			system("pause");
 			exit(0);
 		}
@@ -300,6 +465,17 @@ void new()
 		else
 		{
 			printf("fail\n");
+			
+			srand(time(NULL));
+			New_Rank = rand() % ((80 - 17) + 1) + 17;
+
+			printf("\t\t  ∧__∧　　\n");
+			printf("\t\t ( ｀Д´）　　\n");
+			printf("\t\t (っ┎∈=---  ******* \n");
+			printf("\t\t  /　　 )\n");
+			printf("\t\t  ( /￣∪\n");
+			printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", New_Rank);
+
 			system("pause");
 			exit(0);
 		}
@@ -317,6 +493,17 @@ void new()
 		else
 		{
 			printf("fail\n");
+			
+			srand(time(NULL));
+			New_Rank = rand() % ((80 - 17) + 1) + 17;
+
+			printf("\t\t  ∧__∧　　\n");
+			printf("\t\t ( ｀Д´）　　\n");
+			printf("\t\t (っ┎∈=---  ******* \n");
+			printf("\t\t  /　　 )\n");
+			printf("\t\t  ( /￣∪\n");
+			printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", New_Rank);
+
 			system("pause");
 			exit(0);
 		}
@@ -334,6 +521,17 @@ void new()
 		else
 		{
 			printf("fail\n");
+			
+			srand(time(NULL));
+			New_Rank = rand() % ((80 - 17) + 1) + 17;
+
+			printf("\t\t  ∧__∧　　\n");
+			printf("\t\t ( ｀Д´）　　\n");
+			printf("\t\t (っ┎∈=---  ******* \n");
+			printf("\t\t  /　　 )\n");
+			printf("\t\t  ( /￣∪\n");
+			printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", New_Rank);
+
 			system("pause");
 			exit(0);
 		}
@@ -351,6 +549,17 @@ void new()
 		else
 		{
 			printf("fail\n");
+			
+			srand(time(NULL));
+			New_Rank = rand() % ((80 - 17) + 1) + 17;
+
+			printf("\t\t  ∧__∧　　\n");
+			printf("\t\t ( ｀Д´）　　\n");
+			printf("\t\t (っ┎∈=---  ******* \n");
+			printf("\t\t  /　　 )\n");
+			printf("\t\t  ( /￣∪\n");
+			printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", New_Rank);
+
 			system("pause");
 			exit(0);
 		}
@@ -368,11 +577,20 @@ void new()
 		else
 		{
 			printf("fail\n");
+			
+			srand(time(NULL));
+			New_Rank = rand() % ((80 - 17) + 1) + 17;
+
+			printf("\t\t  ∧__∧　　\n");
+			printf("\t\t ( ｀Д´）　　\n");
+			printf("\t\t (っ┎∈=---  ******* \n");
+			printf("\t\t  /　　 )\n");
+			printf("\t\t  ( /￣∪\n");
+			printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", New_Rank);
+
 			system("pause");
 			exit(0);
 		}
 		break;
 	}
-
-	return 0;
 }
