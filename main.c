@@ -9,6 +9,7 @@
 int main()
 {
   round1();
+  while (getchar() != '\n');
   new();
   Glass_Game();
   
