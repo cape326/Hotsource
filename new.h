@@ -1,16 +1,13 @@
-#include <stdio.h>
-#include <string.h>    
-#include <stdlib.h> 
-#include <time.h> 
-
 void new()
 {
+	system("mode con cols=70 lines=35");
 	srand(time(NULL));
 	int random = 0;
 	random = rand() % 20;
 	printf("%d\n", random);
-
-	printf("*띄어쓰기를 하지 마시오*\n");
+	printf("\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t┃    띄어쓰기를 하지 마시오    ┃\n");
+	
 	char n[100];
 	char n0[100] = "관객크리티컬";
 	char n1[100] = "팬이아니어도저장";
@@ -36,167 +33,346 @@ void new()
 	switch (random)
 	{
 	case 0:
-		printf("관크는 무엇의 약자인가요?\n");
+		printf("\t\t┃   관크는 무엇의 약자인가요?  ┃\n");
+		printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
 		gets(n);
 		if (strcmp(n, n0) == 0)
+		{
 			printf("pass");
+			system("pause");
+			exit(0);
+		}
 		else
+		{
 			printf("fail");
+			system("pause");
+			exit(0);
+		}
 		break;
 	case 1:
-		printf("팬아저는 무엇의 약자인가?\n");
+		printf("\t\t┃   팬아저는 무엇의 약자인가?  ┃\n");
+		printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
 		gets(n);
 		if (strcmp(n, n1) == 0)
+		{
 			printf("pass");
+			system("pause");
+			exit(0);
+		}
 		else
+		{
 			printf("fail");
+			system("pause");
+			exit(0);
+		}
 		break;
 	case 2:
-		printf("알잘딱깔센은 무엇의 약자인가요?\n");
+		printf("\t\t┃ 알잘딱깔센은 무엇의 약자인가?┃\n");
+		printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
 		gets(n);
 		if (strcmp(n, n2) == 0)
+		{
 			printf("pass");
+			system("pause");
+			exit(0);
+		}
 		else
+		{
 			printf("fail");
+			system("pause");
+			exit(0);
+		}
 		break;
 	case 3:
-		printf("설참은 무엇의 약자인가요?\n");
+		printf("\t\t┃   설참은 무엇의 약자인가요?  ┃\n");
+		printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
 		gets(n);
 		if (strcmp(n, n3) == 0)
+		{
 			printf("pass");
+			system("pause");
+			exit(0);
+		}
 		else
+		{
 			printf("fail");
+			system("pause");
+			exit(0);
+		}
 		break;
 	case 4:
-		printf("불소는 무엇의 약자인가요?\n");
+		printf("\t\t┃   불소는 무엇의 약자인가요?  ┃\n");
+		printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
 		gets(n);
 		if (strcmp(n, n4) == 0)
+		{
 			printf("pass");
+			system("pause");
+			exit(0);
+		}
 		else
+		{
 			printf("fail");
+			system("pause");
+			exit(0);
+		}
 		break;
 	case 5:
-		printf("당모치는 무엇의 약자인가요?\n");
+		printf("\t\t┃ 당모치는 무엇의 약자인가요?  ┃\n");
+		printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
 		gets(n);
 		if (strcmp(n, n5) == 0)
+		{
 			printf("pass");
+			system("pause");
+			exit(0);
+		}
 		else
+		{
 			printf("fail");
+			system("pause");
+			exit(0);
+		}
 		break;
 	case 6:
-		printf("군싹는 무엇의 약자인가요?\n");
+		printf("\t\t┃   군싹는 무엇의 약자인가요?  ┃\n");
+		printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
 		gets(n);
 		if (strcmp(n, n6) == 0)
+		{
 			printf("pass");
+			system("pause");
+			exit(0);
+		}
 		else
+		{
 			printf("fail");
+			system("pause");
+			exit(0);
+		}
 		break;
 	case 7:
-		printf("스불재는 무엇의 약자인가요?\n");
+		printf("\t\t┃  스불재는 무엇의 약자인가요? ┃\n");
+		printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
 		gets(n);
 		if (strcmp(n, n7) == 0)
+		{
 			printf("pass");
+			system("pause");
+			exit(0);
+		}
 		else
+		{
 			printf("fail");
+			system("pause");
+			exit(0);
+		}
 		break;
 	case 8:
-		printf("괄도네넴띤은 무엇을 뜻하는 건가요?\n");
+		printf("\t\t┃ 괄도네넴띤은 무엇을 뜻하나요?┃\n");
+		printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
 		gets(n);
 		if (strcmp(n, n8) == 0)
+		{
 			printf("pass");
+			system("pause");
+			exit(0);
+		}
 		else
+		{
 			printf("fail");
+			system("pause");
+			exit(0);
+		}
 		break;
 	case 9:
-		printf("롬곡는 무엇을 뜻하는 건가요?\n");
+		printf("\t\t┃ 롬곡는 무엇을 뜻하는 건가요? ┃\n");
+		printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
 		gets(n);
 		if (strcmp(n, n9) == 0)
+		{
 			printf("pass");
+			system("pause");
+			exit(0);
+		}
 		else
+		{
 			printf("fail");
+			system("pause");
+			exit(0);
+		}
 		break;
 	case 10:
-		printf("비담은 무엇의 약자인가요?\n");
+		printf("\t\t┃  비담은 무엇의 약자인가요 ?  ┃\n");
+		printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
 		gets(n);
 		if (strcmp(n, n10) == 0)
+		{
 			printf("pass");
+			system("pause");
+			exit(0);
+		}
 		else
+		{
 			printf("fail");
+			system("pause");
+			exit(0);
+		}
 		break;
 	case 11:
-		printf("별다줄은 무엇의 약자인가요?\n");
+		printf("\t\t┃ 별다줄은 무엇의 약자인가요?  ┃\n");
+		printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
 		gets(n);
 		if (strcmp(n, n11) == 0)
+		{
 			printf("pass");
+			system("pause");
+			exit(0);
+		}
 		else
+		{
 			printf("fail");
+			system("pause");
+			exit(0);
+		}
 		break;
 	case 12:
-		printf("복세편살은 무엇의 약자인가요?\n");
+		printf("\t\t┃ 복세편살은 무엇의 약자인가요?┃\n");
+		printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
 		gets(n);
 		if (strcmp(n, n12) == 0)
+		{
 			printf("pass");
+			system("pause");
+			exit(0);
+		}
 		else
+		{
 			printf("fail");
+			system("pause");
+			exit(0);
+		}
 		break;
 	case 13:
-		printf("ㅈㄱㄴ는 무엇의 약자인가요?\n");
+		printf("\t\t┃ ㅈㄱㄴ는 무엇의 약자인가요?  ┃\n");
+		printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
 		gets(n);
 		if (strcmp(n, n13) == 0)
+		{
 			printf("pass");
+			system("pause");
+			exit(0);
+		}
 		else
+		{
 			printf("fail");
+			system("pause");
+			exit(0);
+		}
 		break;
 	case 14:
-		printf("5°5:5는 무엇을 뜻하나요?\n");
+		printf("\t\t┃   5°5:5는 무엇을 뜻하나요?  ┃\n");
+		printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
 		gets(n);
 		if (strcmp(n, n14) == 0)
+		{
 			printf("pass");
+			system("pause");
+			exit(0);
+		}
 		else
+		{
 			printf("fail");
+			system("pause");
+			exit(0);
+		}
 		break;
 	case 15:
-		printf("꾸꾸꾸는 무엇의 약자인가요?\n");
+		printf("\t\t┃  꾸꾸꾸는 무엇의 약자인가요? ┃\n");
+		printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
 		gets(n);
 		if (strcmp(n, n15) == 0)
+		{
 			printf("pass");
+			system("pause");
+			exit(0);
+		}
 		else
+		{
 			printf("fail");
+			system("pause");
+			exit(0);
+		}
 		break;
 	case 16:
-		printf("ㅈㅂㅈㅇ는 무엇을 뜻하나요?\n");
+		printf("\t\t┃  ㅈㅂㅈㅇ는 무엇을 뜻하나요? ┃\n");
+		printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
 		gets(n);
 		if (strcmp(n, n16) == 0)
+		{
 			printf("pass");
+			system("pause");
+			exit(0);
+		}
 		else
+		{
 			printf("fail");
+			system("pause");
+			exit(0);
+		}
 		break;
 	case 17:
-		printf("얼죽코는 무엇의 약자인가요?\n");
+		printf("\t\t┃  얼죽코는 무엇의 약자인가요? ┃\n");
+		printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
 		gets(n);
 		if (strcmp(n, n17) == 0)
+		{
 			printf("pass");
+			system("pause");
+			exit(0);
+		}
 		else
+		{
 			printf("fail");
+			system("pause");
+			exit(0);
+		}
 		break;
 	case 18:
-		printf("갑통알은 무엇의 약자인가요?\n");
+		printf("\t\t┃ 갑통알은 무엇의 약자인가요?  ┃\n");
+		printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
 		gets(n);
 		if (strcmp(n, n18) == 0)
+		{
 			printf("pass");
+			system("pause");
+			exit(0);
+		}
 		else
+		{
 			printf("fail");
+			system("pause");
+			exit(0);
+		}
 		break;
 	case 19:
-		printf("자낳괴는 무엇의 약자인가요?\n");
+		printf("\t\t┃  자낳괴는 무엇의 약자인가요? ┃\n");
+		printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
 		gets(n);
 		if (strcmp(n, n19) == 0)
+		{
 			printf("pass");
+			system("pause");
+			exit(0);
+		}
 		else
+		{
 			printf("fail");
+			system("pause");
+			exit(0);
+		}
 		break;
 	}
 
 	return 0;
 }
-
