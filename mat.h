@@ -1,28 +1,45 @@
+
+struct DATA{
+char truelist[50];
+char falselist[50];
+char question[100];
+char answer[50];
+};
+
 void mat(){
 
-char truelist[20]="꺼매졌다";
-char falselist[20]="까매졌다";
-char question[100]="손이 ___.";
-char answer[20];
+int choice = 0;
 
-printf("\n\n<두번째 게임은 맞춤법게임입니다.>\n\n");
-printf("\n%s\n\n 1.%s\n 2.%s\n\n(한글입력)",question,truelist,falselist);
-scanf("%s",answer);
+//랜덤함수로 0-3중에서 하나의 수를 뽑는다. 
+int i;
 
-if(strcmp(truelist,answer) == 0)
+srand((unsigned int)time(NULL));
+int keynum;
+keynum = rand() % 4 ; 
+
+printf("0-3 중 랜덤 수는 %d 이다.\n",keynum);
+                     
+//파일입출력으로 구조체에서 keynum에 해당하는 번호의 buf를 가져온다. 
+struct DATA info = { 0 }; 
+
+
+FILE* fp = NULL;
+
+fp=fopen("matquiz.txt","r");
+
+while (feof(fp)==0)
 {
-  printf("\n 맞습니다.");
-}
+   
 
-else if(strcmp(falselist,answer) == 0)
-{
-    printf("틀렸습니다.");
-}
+   fscanf(fp,"%s %s %s %s\n",info.truelist,info.falselist,info.question,info.answer);
+   printf(".");  
+   
+  
+}  
+fclose(fp);
 
-else
-{
-    printf("다시 입력하시오.");
-}
+   printf("%s %s %s %s\n",info.truelist,info.falselist,info.question,info.answer); 
 
-return 0;
+ 
+
 }
