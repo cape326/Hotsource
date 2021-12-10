@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "rock.h"
 
 int asw1;
 int asw2;
@@ -20,7 +21,7 @@ if(asw1==1){
     printf("\n             (숫자입력):");
     scanf("%d",&asw2);
     if(asw2==1){
-       //가위바위보 고고
+       round1();
     }
     else if(asw2==2){
       return 0;
