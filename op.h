@@ -4,7 +4,7 @@ int kk;
 int nn;
 
 
-int main(){
+void op(){
 printf("\n                    당신은 명함을 받았다.\n       ○ △ □ 가 그려진 명함 뒤엔 전화번호가 적혀있다.\n\n"); 
 printf("\n                  ...전화를 하시겠습니까?\n\n");
 printf("                            1.Yes\n");
