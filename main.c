@@ -8,8 +8,10 @@
 
 int main()
 {
+  op();
   round1();
   while (getchar() != '\n');
+  mat();
   new();
   Glass_Game();
   
