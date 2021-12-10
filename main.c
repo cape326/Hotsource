@@ -5,11 +5,11 @@
 #include "rock.h"
 #include "new.h"
 #include "glass.h"
+#include "op.h"
 
 int main()
 {
   op();
-  round1();
   while (getchar() != '\n');
   mat();
   new();
