@@ -45,9 +45,9 @@ void mat()
 {
     int keynum;
     srand(time(NULL));
-    keynum = rand() % 4;
+    keynum = rand() % 10;
 
-    printf("0-3 중 랜덤 수는 %d 이다.\n", keynum);
+    printf("0-9 중 랜덤 수는 %d 이다.\n", keynum);
     node* head = NULL;
     ques data;
     FILE* fp = NULL;
