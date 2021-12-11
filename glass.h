@@ -967,18 +967,18 @@ void Ending_First_Lines()
 	srand(time(NULL));
 	Glass_Rank1 = rand() % ((16 - 9) + 1) + 9;     //9~16까지의 수에서 랜덤 추출      (유리1회)
 
-	printf("\t\t\t　＿＿_／(＿＿_\n");
-	printf("\t\t\t／　　(＿＿＿／\n");
-	printf("\t\t\t￣￣￣￣￣\n");
-	printf("\t\t\t       ||   \n");
-	printf("\t\t\t            ||\n");
-	printf("\t\t\t       ||   \n");
-	printf("\t\t\t            ||\n");
-	printf("\t\t\t　　　 　∧∧ ∩\n");
-	printf("\t\t\t　     (`oωo)/\n");
-	printf("\t\t\t　　　⊂　　ノ\n");
-	printf("\t\t\t　　　　(つノ\n");
-	printf("\t\t\t　　　　 ()\n");
+	printf("\t\t\t\t　＿＿_／(＿＿_\n");
+	printf("\t\t\t\t／　　(＿＿＿／\n");
+	printf("\t\t\t\t￣￣￣￣￣\n");
+	printf("\t\t\t\t       ||   \n");
+	printf("\t\t\t\t            ||\n");
+	printf("\t\t\t\t       ||   \n");
+	printf("\t\t\t\t            ||\n");
+	printf("\t\t\t\t　　　 　∧∧ ∩\n");
+	printf("\t\t\t\t　     (`oωo)/\n");
+	printf("\t\t\t\t　　　⊂　　ノ\n");
+	printf("\t\t\t\t　　　　(つノ\n");
+	printf("\t\t\t\t　　　　 ()\n");
 
 	printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", Glass_Rank1);
 
@@ -992,18 +992,18 @@ void Ending_Second_Lines()
 	srand(time(NULL));
 	Glass_Rank2 = rand() % ((8 - 5) + 1) + 5;      //5~8까지의 수에서 랜덤 추출    (유리2회)
 
-	printf("\t\t\t　＿＿_／(＿＿_\n");
-	printf("\t\t\t／　　(＿＿＿／\n");
-	printf("\t\t\t￣￣￣￣￣\n");
-	printf("\t\t\t       ||   \n");
-	printf("\t\t\t            ||\n");
-	printf("\t\t\t       ||   \n");
-	printf("\t\t\t            ||\n");
-	printf("\t\t\t　　　 　∧∧ ∩\n");
-	printf("\t\t\t　     (`oωo)/\n");
-	printf("\t\t\t　　　⊂　　ノ\n");
-	printf("\t\t\t　　　　(つノ\n");
-	printf("\t\t\t　　　　 ()\n");
+	printf("\t\t\t\t　＿＿_／(＿＿_\n");
+	printf("\t\t\t\t／　　(＿＿＿／\n");
+	printf("\t\t\t\t￣￣￣￣￣\n");
+	printf("\t\t\t\t       ||   \n");
+	printf("\t\t\t\t            ||\n");
+	printf("\t\t\t\t       ||   \n");
+	printf("\t\t\t\t            ||\n");
+	printf("\t\t\t\t　　　 　∧∧ ∩\n");
+	printf("\t\t\t\t　     (`oωo)/\n");
+	printf("\t\t\t\t　　　⊂　　ノ\n");
+	printf("\t\t\t\t　　　　(つノ\n");
+	printf("\t\t\t\t　　　　 ()\n");
 
 	printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", Glass_Rank2);
 
@@ -1017,18 +1017,18 @@ void Ending_Third_Lines()
 	srand(time(NULL));
 	Glass_Rank3 = rand() % ((4 - 3) + 1) + 3;      //3~4까지의 수에서 랜덤 추출    (유리3회)
 
-	printf("\t\t\t　＿＿_／(＿＿_\n");
-	printf("\t\t\t／　　(＿＿＿／\n");
-	printf("\t\t\t￣￣￣￣￣\n");
-	printf("\t\t\t       ||   \n");
-	printf("\t\t\t            ||\n");
-	printf("\t\t\t       ||   \n");
-	printf("\t\t\t            ||\n");
-	printf("\t\t\t　　　 　∧∧ ∩\n");
-	printf("\t\t\t　     (`oωo)/\n");
-	printf("\t\t\t　　　⊂　　ノ\n");
-	printf("\t\t\t　　　　(つノ\n");
-	printf("\t\t\t　　　　 ()\n");
+	printf("\t\t\t\t　＿＿_／(＿＿_\n");
+	printf("\t\t\t\t／　　(＿＿＿／\n");
+	printf("\t\t\t\t￣￣￣￣￣\n");
+	printf("\t\t\t\t       ||   \n");
+	printf("\t\t\t\t            ||\n");
+	printf("\t\t\t\t       ||   \n");
+	printf("\t\t\t\t            ||\n");
+	printf("\t\t\t\t　　　 　∧∧ ∩\n");
+	printf("\t\t\t\t　     (`oωo)/\n");
+	printf("\t\t\t\t　　　⊂　　ノ\n");
+	printf("\t\t\t\t　　　　(つノ\n");
+	printf("\t\t\t\t　　　　 ()\n");
 
 	printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", Glass_Rank3);
 
@@ -1042,18 +1042,18 @@ void Ending_Fourth_Lines()
 	srand(time(NULL));
 	Glass_Rank4 = 2;                   // 유리4회에서 탈락
 
-	printf("\t\t\t　＿＿_／(＿＿_\n");
-	printf("\t\t\t／　　(＿＿＿／\n");
-	printf("\t\t\t￣￣￣￣￣\n");
-	printf("\t\t\t       ||   \n");
-	printf("\t\t\t            ||\n");
-	printf("\t\t\t       ||   \n");
-	printf("\t\t\t            ||\n");
-	printf("\t\t\t　　　 　∧∧ ∩\n");
-	printf("\t\t\t　     (`oωo)/\n");
-	printf("\t\t\t　　　⊂　　ノ\n");
-	printf("\t\t\t　　　　(つノ\n");
-	printf("\t\t\t　　　　 ()\n");
+	printf("\t\t\t\t　＿＿_／(＿＿_\n");
+	printf("\t\t\t\t／　　(＿＿＿／\n");
+	printf("\t\t\t\t￣￣￣￣￣\n");
+	printf("\t\t\t\t       ||   \n");
+	printf("\t\t\t\t            ||\n");
+	printf("\t\t\t\t       ||   \n");
+	printf("\t\t\t\t            ||\n");
+	printf("\t\t\t\t　　　 　∧∧ ∩\n");
+	printf("\t\t\t\t　     (`oωo)/\n");
+	printf("\t\t\t\t　　　⊂　　ノ\n");
+	printf("\t\t\t\t　　　　(つノ\n");
+	printf("\t\t\t\t　　　　 ()\n");
 
 	printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", Glass_Rank4);
 
