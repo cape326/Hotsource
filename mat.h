@@ -46,7 +46,11 @@ void show(node* head, int n)
 	
     scanf("%s", &answer);
     if (strcmp(p->data.truelist, answer) == 0)
-        printf("\n맞습니다.");
+    {
+	    printf("\n맞습니다.\n");
+	    printf("\n2라운드 통과. 다음 라운드로 넘어갑니다.\n");
+            system("pause");
+    }
     else 
     {
         printf("\n틀렸습니다.\n");
