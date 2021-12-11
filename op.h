@@ -20,11 +20,9 @@ if(asw1==1){
     printf("\n                     2. exit");
     printf("\n             (숫자입력):");
     scanf("%d",&asw2);
-    if(asw2==1){
-       round1();
-    }
-    else if(asw2==2){
-      return 0;
+    
+    if(asw2==2){
+       exit(0);
     }
 }
 
