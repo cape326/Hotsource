@@ -35,7 +35,7 @@ void show(node* head, int n)
     scanf("%s", &answer);
     if (strcmp(p->data.truelist, answer) == 0)
         printf("\n맞습니다.");
-    else (strcmp(p->data.falselist, answer) == 0)
+    else 
         printf("\n틀렸습니다.");
   
 }
