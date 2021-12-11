@@ -27,6 +27,7 @@ void insert(node** head, ques data)
 
 void show(node* head, int n)
 {
+    int Mat_Rank;
     node* p = head;
     char answer[20];
     for (int i = 0; i < n; i++)
@@ -36,12 +37,24 @@ void show(node* head, int n)
     if (strcmp(p->data.truelist, answer) == 0)
         printf("\n맞습니다.");
     else 
+    {
         printf("\n틀렸습니다.");
-  
+        
+        srand(time(NULL));
+	    Mat_Rank = rand() % ((160 - 81) + 1) + 81;   //81~160까지의 수에서 랜덤 추출    (맞춤법)
+	
+	   printf("\t\t  ∧__∧　　\n");
+	   printf("\t\t ( ｀Д´）　　\n");
+	   printf("\t\t (っ┎∈=---  ******* \n");
+	   printf("\t\t  /　　 )\n");
+	   printf("\t\t  ( /￣∪\n");
+	   printf("\t\t탈락입니다. 당신의 등수는 %d등 입니다.\n", Mat_Rank);
+    }
 }
 
 void mat()
 {
+    system("cls");
     int keynum;
     srand(time(NULL));
     keynum = rand() % 10;
