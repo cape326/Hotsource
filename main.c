@@ -12,6 +12,7 @@ int main()
   op();
   while (getchar() != '\n');
   rock();
+  system("pause");
   while (getchar() != '\n');
   mat();
   while (getchar() != '\n');
