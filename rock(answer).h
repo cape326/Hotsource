@@ -59,15 +59,15 @@ void rock()
 
 	system("mode con cols=70 lines=35");
 
-	printf("\t\t  ┏━━━━━━━━━━━━━━┓\n");
-	printf("\t\t  ┃     <Round 1> 가위바위보   ┃\n");
-	printf("\t\t  ┃                            ┃\n");
-	printf("\t\t  ┃  비기거나 지면 탈락입니다. ┃\n");
-	printf("\t\t  ┃                            ┃\n");
-	printf("\t\t  ┃          1. 가위           ┃\n");
-	printf("\t\t  ┃          2. 바위           ┃\n");
-	printf("\t\t  ┃          3. 보             ┃\n");
-	printf("\t\t  ┗━━━━━━━━━━━━━━┛\n");
+	printf("\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t┃     <Round 1> 가위바위보    ┃\n");
+	printf("\t\t┃                             ┃\n");
+	printf("\t\t┃   비기거나 지면 탈락입니다. ┃\n");
+	printf("\t\t┃                             ┃\n");
+	printf("\t\t┃           1. 가위           ┃\n");
+	printf("\t\t┃           2. 바위           ┃\n");
+	printf("\t\t┃           3. 보             ┃\n");
+	printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
 
 	printf("Computer : %d\n", num1);
 	printf("Please enter key > ");
