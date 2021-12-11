@@ -5,6 +5,7 @@ void new()
 	int random = 0, New_Rank;
 	random = rand() % 20;
 	printf("\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t┃      <Round 3> 신조어 게임   ┃\n");
 	printf("\t\t┃    띄어쓰기를 하지 마시오    ┃\n");
 	
 	char n[100];
