@@ -32,7 +32,14 @@ void show(node* head, int n)
     char answer[20];
     for (int i = 0; i < n; i++)
         p = p->next;
-    printf("%s %s %s\n", p->data.question, p->data.truelist, p->data.falselist);
+	printf("\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t┃     <Round 2> 맞춤법게임       ┃\n");
+	printf("\t\t┃                             ┃\n");
+	printf("\t\t┃     아래의 맞춤법을 맞추어라      ┃\n");
+	printf("\t\t|         %s %s %s            |\n", p->data.question, p->data.truelist, p->data.falselist);
+	printf("\t\t┃                             ┃\n");
+	printf("\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n"); 
+	
     scanf("%s", &answer);
     if (strcmp(p->data.truelist, answer) == 0)
         printf("\n맞습니다.");
