@@ -4,8 +4,18 @@ void Stage()
 {
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 
 	printf("\n\n");
@@ -26,8 +36,18 @@ void First_1()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -47,8 +67,18 @@ void First_2()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -68,8 +98,18 @@ void Second_11()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -89,8 +129,18 @@ void Second_12()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -110,8 +160,18 @@ void Second_21()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -131,8 +191,18 @@ void Second_22()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -152,8 +222,18 @@ void Third_111()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -173,8 +253,18 @@ void Third_112()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -194,8 +284,18 @@ void Third_121()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -215,8 +315,18 @@ void Third_211()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -236,8 +346,18 @@ void Third_122()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -257,8 +377,18 @@ void Third_212()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -278,8 +408,18 @@ void Third_221()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -299,9 +439,18 @@ void Third_222()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
-
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
 	printf("\t\t\t┃      결승     ┃\n");
@@ -320,8 +469,18 @@ void Fourth_1111()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -341,8 +500,18 @@ void Fourth_1112()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -362,8 +531,18 @@ void Fourth_1121()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -383,8 +562,18 @@ void Fourth_1211()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -404,8 +593,18 @@ void Fourth_2111()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -425,8 +624,18 @@ void Fourth_2211()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -446,8 +655,18 @@ void Fourth_2121()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -467,8 +686,18 @@ void Fourth_2112()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -488,8 +717,18 @@ void Fourth_1221()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -509,8 +748,18 @@ void Fourth_1212()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -530,8 +779,18 @@ void Fourth_1122()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -551,8 +810,18 @@ void Fourth_1222()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -572,8 +841,18 @@ void Fourth_2122()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -593,8 +872,18 @@ void Fourth_2212()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -614,8 +903,18 @@ void Fourth_2221()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
@@ -635,8 +934,18 @@ void Fourth_2222()
 	system("cls");
 	system("mode con cols=70 lines=30");
 
-	printf("유리 밟기 게임: 왼쪽 오른족 유리 중 하나를 선택해 앞으로 나아가라.\n");
-	printf("유리는 강와유리와 일반유리 중 하나다. (왼쪽: 1, 오른쪽: 2)\n\n");
+	printf("\t\t\t┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
+        printf("\t\t\t┃     <Round 4> 유리 밟기 게임     ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃ 왼쪽 오른쪽 유리 중 하나를 선택해┃\n");
+        printf("\t\t\t┃         앞으로 나아가라          ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃     강화유리, 일반유리 중 하나   ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┃       (왼쪽: 1, 오른쪽: 2)       ┃\n");
+        printf("\t\t\t┃                                  ┃\n");
+        printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
+        printf("\n");
 
 	printf("\n\n");
 	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
