@@ -35,10 +35,9 @@ void show(node* head, int n)
     scanf("%s", &answer);
     if (strcmp(p->data.truelist, answer) == 0)
         printf("\n맞습니다.");
-    else if (strcmp(p->data.falselist, answer) == 0)
+    else (strcmp(p->data.falselist, answer) == 0)
         printf("\n틀렸습니다.");
-    else
-        printf("\n다시 입력하세요.");
+  
 }
 
 void mat()
