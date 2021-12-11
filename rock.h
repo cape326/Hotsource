@@ -51,7 +51,7 @@ char Image[][6][20] =
 
 };
 
-void round1()
+void rock()
 {
 	int num1, answer1, num6, Rock_Rank;
 	srand(time(NULL));
