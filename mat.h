@@ -38,7 +38,7 @@ void show(node* head, int n)
         printf("\n맞습니다.");
     else 
     {
-        printf("\n틀렸습니다.");
+        printf("\n틀렸습니다.\n");
         
         srand(time(NULL));
 	    Mat_Rank = rand() % ((160 - 81) + 1) + 81;   //81~160까지의 수에서 랜덤 추출    (맞춤법)
