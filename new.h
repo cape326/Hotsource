@@ -38,7 +38,7 @@ void new()
 		gets(n);
 		if (strcmp(n, n0) == 0)
 		{
-			printf("pass\n");
+			printf("\n3라운드 통과. 다음 라운드로 넘어갑니다.\n");
 			system("pause");
 		}
 		else
@@ -65,7 +65,7 @@ void new()
 		gets(n);
 		if (strcmp(n, n1) == 0)
 		{
-			printf("pass\n");
+			printf("\n3라운드 통과. 다음 라운드로 넘어갑니다.\n");
 			system("pause");
 		}
 		else
@@ -92,7 +92,7 @@ void new()
 		gets(n);
 		if (strcmp(n, n2) == 0)
 		{
-			printf("pass\n");
+			printf("\n3라운드 통과. 다음 라운드로 넘어갑니다.\n");
 			system("pause");
 		}
 		else
@@ -119,7 +119,7 @@ void new()
 		gets(n);
 		if (strcmp(n, n3) == 0)
 		{
-			printf("pass\n");
+			printf("\n3라운드 통과. 다음 라운드로 넘어갑니다.\n");
 			system("pause");
 		}
 		else
@@ -146,7 +146,7 @@ void new()
 		gets(n);
 		if (strcmp(n, n4) == 0)
 		{
-			printf("pass\n");
+			printf("\n3라운드 통과. 다음 라운드로 넘어갑니다.\n");
 			system("pause");
 		}
 		else
@@ -173,7 +173,7 @@ void new()
 		gets(n);
 		if (strcmp(n, n5) == 0)
 		{
-			printf("pass\n");
+			printf("\n3라운드 통과. 다음 라운드로 넘어갑니다.\n");
 			system("pause");
 		}
 		else
@@ -200,7 +200,7 @@ void new()
 		gets(n);
 		if (strcmp(n, n6) == 0)
 		{
-			printf("pass\n");
+			printf("\n3라운드 통과. 다음 라운드로 넘어갑니다.\n");
 			system("pause");
 		}
 		else
@@ -227,7 +227,7 @@ void new()
 		gets(n);
 		if (strcmp(n, n7) == 0)
 		{
-			printf("pass\n");
+			printf("\n3라운드 통과. 다음 라운드로 넘어갑니다.\n");
 			system("pause");
 		}
 		else
@@ -254,7 +254,7 @@ void new()
 		gets(n);
 		if (strcmp(n, n8) == 0)
 		{
-			printf("pass\n");
+			printf("\n3라운드 통과. 다음 라운드로 넘어갑니다.\n");
 			system("pause");
 		}
 		else
@@ -281,7 +281,7 @@ void new()
 		gets(n);
 		if (strcmp(n, n9) == 0)
 		{
-			printf("pass\n");
+			printf("\n3라운드 통과. 다음 라운드로 넘어갑니다.\n");
 			system("pause");
 		}
 		else
@@ -308,7 +308,7 @@ void new()
 		gets(n);
 		if (strcmp(n, n10) == 0)
 		{
-			printf("pass\n");
+			printf("\n3라운드 통과. 다음 라운드로 넘어갑니다.\n");
 			system("pause");
 		}
 		else
@@ -335,7 +335,7 @@ void new()
 		gets(n);
 		if (strcmp(n, n11) == 0)
 		{
-			printf("pass\n");
+			printf("\n3라운드 통과. 다음 라운드로 넘어갑니다.\n");
 			system("pause");
 		}
 		else
@@ -362,7 +362,7 @@ void new()
 		gets(n);
 		if (strcmp(n, n12) == 0)
 		{
-			printf("pass\n");
+			printf("\n3라운드 통과. 다음 라운드로 넘어갑니다.\n");
 			system("pause");
 		}
 		else
@@ -389,7 +389,7 @@ void new()
 		gets(n);
 		if (strcmp(n, n13) == 0)
 		{
-			printf("pass\n");
+			printf("\n3라운드 통과. 다음 라운드로 넘어갑니다.\n");
 			system("pause");
 		}
 		else
@@ -416,7 +416,7 @@ void new()
 		gets(n);
 		if (strcmp(n, n14) == 0)
 		{
-			printf("pass\n");
+			printf("\n3라운드 통과. 다음 라운드로 넘어갑니다.\n");
 			system("pause");
 		}
 		else
@@ -443,7 +443,7 @@ void new()
 		gets(n);
 		if (strcmp(n, n15) == 0)
 		{
-			printf("pass\n");
+			printf("\n3라운드 통과. 다음 라운드로 넘어갑니다.\n");
 			system("pause");
 		}
 		else
@@ -470,7 +470,7 @@ void new()
 		gets(n);
 		if (strcmp(n, n16) == 0)
 		{
-			printf("pass\n");
+			printf("\n3라운드 통과. 다음 라운드로 넘어갑니다.\n");
 			system("pause");
 		}
 		else
@@ -497,7 +497,7 @@ void new()
 		gets(n);
 		if (strcmp(n, n17) == 0)
 		{
-			printf("pass\n");
+			printf("\n3라운드 통과. 다음 라운드로 넘어갑니다.\n");
 			system("pause");
 		}
 		else
@@ -524,7 +524,7 @@ void new()
 		gets(n);
 		if (strcmp(n, n18) == 0)
 		{
-			printf("pass\n");
+			printf("\n3라운드 통과. 다음 라운드로 넘어갑니다.\n");
 			system("pause");
 		}
 		else
@@ -551,7 +551,7 @@ void new()
 		gets(n);
 		if (strcmp(n, n19) == 0)
 		{
-			printf("pass\n");
+			printf("\n3라운드 통과. 다음 라운드로 넘어갑니다.\n");
 			system("pause");
 		}
 		else
