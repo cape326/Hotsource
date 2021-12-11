@@ -2,10 +2,11 @@
 #include <time.h>
 #include <string.h>    
 #include <stdlib.h> 
+#include "op.h"
 #include "rock.h"
+#include "mat.h"
 #include "new.h"
 #include "glass.h"
-#include "op.h"
 
 int main()
 {
