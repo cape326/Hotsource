@@ -19,15 +19,15 @@ void Stage()
 
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -50,15 +50,15 @@ void First_1()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -81,15 +81,15 @@ void First_2()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -112,15 +112,15 @@ void Second_11()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -143,15 +143,15 @@ void Second_12()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -174,15 +174,15 @@ void Second_21()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -205,15 +205,15 @@ void Second_22()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -236,15 +236,15 @@ void Third_111()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -267,15 +267,15 @@ void Third_112()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -298,15 +298,15 @@ void Third_121()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -329,15 +329,15 @@ void Third_211()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -360,15 +360,15 @@ void Third_122()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -391,15 +391,15 @@ void Third_212()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -422,15 +422,15 @@ void Third_221()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -452,15 +452,15 @@ void Third_222()
         printf("\t\t\t┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
         printf("\n");
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃      ㅁㅁ     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃      ㅁㅁ     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -483,15 +483,15 @@ void Fourth_1111()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -514,15 +514,15 @@ void Fourth_1112()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -545,15 +545,15 @@ void Fourth_1121()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -576,15 +576,15 @@ void Fourth_1211()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -607,15 +607,15 @@ void Fourth_2111()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -638,15 +638,15 @@ void Fourth_2211()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -669,15 +669,15 @@ void Fourth_2121()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -700,15 +700,15 @@ void Fourth_2112()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -731,15 +731,15 @@ void Fourth_1221()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -762,15 +762,15 @@ void Fourth_1212()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -793,15 +793,15 @@ void Fourth_1122()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -824,15 +824,15 @@ void Fourth_1222()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -855,15 +855,15 @@ void Fourth_2122()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -886,15 +886,15 @@ void Fourth_2212()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -917,15 +917,15 @@ void Fourth_2221()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃      ㅁ       ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃      ㅁ       ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
@@ -948,15 +948,15 @@ void Fourth_2222()
         printf("\n");
 
 	printf("\n\n");
-	printf("\t\t\t┏━━━━━━━━━━━━━━━┓\n");
-	printf("\t\t\t┃      결승     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃        ㅁ     ┃\n");
-	printf("\t\t\t┃               ┃\n");
-	printf("\t\t\t┃      시작     ┃\n");
-	printf("\t\t\t┗━━━━━━━━━━━━━━━┛\n");
+	printf("\t\t\t\t┏━━━━━━━━━━━━━━━┓\n");
+	printf("\t\t\t\t┃      결승     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃        ㅁ     ┃\n");
+	printf("\t\t\t\t┃               ┃\n");
+	printf("\t\t\t\t┃      시작     ┃\n");
+	printf("\t\t\t\t┗━━━━━━━━━━━━━━━┛\n");
 	printf("\n");
 }
 
