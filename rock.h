@@ -142,7 +142,6 @@ void rock()
 			printf("\t\t       <보>\n");
 		}
 		printf("\n1라운드 통과. 다음 라운드로 넘어갑니다.\n");
-		system("pause");
 	}
 	else
 	{
